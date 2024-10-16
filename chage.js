@@ -1,1 +1,1 @@
-console.log('changes.js')
+console.log('change.js')
